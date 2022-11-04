@@ -1,5 +1,5 @@
-host: https://harbordigital.testrail.io
+host: 
 project: My Project
-username: patrick_henry@harborretail.com
-password: f0EW%L7p5Jma
+username: 
+password: 
 title: Cypress Automated Test Run
